@@ -1,0 +1,33 @@
+_repo: Die-Tugend-auf-der-Schaub-hneoder--Harlekins-Heirath--Ein-Nachspiel-in-einem-Aufzuge_15505
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Möser, Justus
+    alias: Moser, Justus
+    birthdate: 1720
+    deathdate: 1794
+    gutenberg_agent_id: '6095'
+    url: http://www.gutenberg.org/2009/agents/6095
+    wikipedia: http://de.wikipedia.org/wiki/Justus_M%C3%B6ser
+description: ''
+gutenberg_bookshelf:
+- DE Drama
+- One Act Plays
+gutenberg_issued: '2005-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15505'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcc 'PT'
+title: 'Die Tugend auf der Schaubühne
+
+  oder: Harlekins Heirath; Ein Nachspiel in einem Aufzuge'
+url: http://www.gutenberg.org/ebooks/15505
