@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6095
     wikipedia: http://de.wikipedia.org/wiki/Justus_M%C3%B6ser
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15505#Die-Tugend-auf-der-Schaub-hneoder--Harlekins-Heirath--Ein-Nachspiel-in-einem-Aufzuge
 gutenberg_bookshelf:
 - DE Drama
 - One Act Plays
